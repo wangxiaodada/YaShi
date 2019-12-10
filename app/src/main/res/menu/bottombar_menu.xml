@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ys_bottombar_shouye"
+        android:icon="@drawable/ic_bottombar_shouye"
+        android:title="@string/bottombar_shouye" />
+    <item
+        android:id="@+id/ys_bottombar_fujin"
+        android:icon="@drawable/ic_bottombar_fujin"
+        android:title="@string/bottombar_fujin" />
+    <item
+        android:id="@+id/ys_bottombar_jiahao"
+        android:icon="@drawable/ic_bottombar_jiahao"
+        android:title=" "
+        />
+    <item
+        android:id="@+id/ys_bottombar_xiaoxi"
+        android:icon="@drawable/ic_bottombar_xiaoxi"
+        android:title="@string/bottombar_xiaoxi" />
+    <item
+        android:id="@+id/ys_bottombar_wode"
+        android:icon="@drawable/ic_bottombar_wode"
+        android:title="@string/bottombar_wode" />
+</menu>

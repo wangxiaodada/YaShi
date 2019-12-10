@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">YaShi</string>
+    <string name="app_name" translatable="false">雅视</string>
+    <string name="bottombar_shouye" translatable="false">首页</string>
+    <string name="bottombar_fujin" translatable="false">附近</string>
+    <string name="bottombar_xiaoxi" translatable="false">消息</string>
+    <string name="bottombar_wode" translatable="false">我的</string>
 </resources>
